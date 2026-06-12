@@ -1,0 +1,10 @@
+id = "cod3ddot/cardwire-noctalia"
+name = "cardwire-noctalia"
+version = "1.0.0"
+min_noctalia = "5.0.0"
+author = "cod3ddot"
+license = "MIT"
+deprecated = false
+icon = "puzzle"
+description = "Brings GPU control to your noctalia shell."
+tags = ["gpu", "system"]
