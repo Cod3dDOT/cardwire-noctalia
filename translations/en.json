@@ -1,1 +1,7 @@
-{}
+{
+	"mode": "Mode",
+	"integrated": "integrated",
+	"hybrid": "hybrid",
+	"manual": "manual",
+	"smart": "smart"
+}
