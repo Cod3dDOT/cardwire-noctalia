@@ -1,3 +1,6 @@
+-- SPDX-FileCopyrightText: 2026 cod3ddot@proton.me
+-- SPDX-License-Identifier: MIT
+
 -- Bar widget for Cardwire GPU mode.
 --   Left-click     cycle modes: integrated | hybrid | manual
 --   Right-click    send IPC refresh to service; tooltip updates on next poll

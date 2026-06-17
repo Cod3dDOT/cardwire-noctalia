@@ -1,3 +1,6 @@
+-- SPDX-FileCopyrightText: 2026 cod3ddot@proton.me
+-- SPDX-License-Identifier: MIT
+
 -- Background service for cardwire GPU mode management.
 --   Streams dbus-monitor for PropertiesChanged so the bar reflects mode
 --     switches made by any client.

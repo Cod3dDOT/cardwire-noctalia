@@ -1,3 +1,6 @@
+-- SPDX-FileCopyrightText: 2026 cod3ddot@proton.me
+-- SPDX-License-Identifier: MIT
+
 -- Control-center shortcut for Cardwire GPU mode.
 --   Active     = Integrated mode
 --   Inactive   = Hybrid mode
